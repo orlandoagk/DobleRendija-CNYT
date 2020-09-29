@@ -19,8 +19,8 @@ Al ver lo que esta ocurriendo no podemos afirmar exactamente por cual de las dos
 
 **El codigo esta en este repositorio, las pruebas estan en el archivo doublesplit.py**
 
-<img src="DoubleSplitNaturalN1.PNG" width="200">
-<img src="ProbabilitiesValues.PNG" width="200">
+<img src="DoubleSplitNaturalN1.PNG">
+<img src="ProbabilitiesValues.PNG">
 
 
 ## Video
